@@ -34,7 +34,7 @@ public class Main2 {
 
 
     }
-    
+
     public static String promptForString(String prompt){
         System.out.print(prompt);
         return scanner.nextLine();
